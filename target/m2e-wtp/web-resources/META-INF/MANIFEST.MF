@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/spring-core-5.3.33.jar lib/spring-jcl-5.3.33.jar lib/spr
+ ing-context-5.3.33.jar lib/spring-beans-5.3.33.jar lib/spring-expressio
+ n-5.3.33.jar lib/spring-webmvc-5.3.33.jar lib/spring-web-5.3.33.jar lib
+ /spring-aop-5.3.33.jar lib/spring-jdbc-5.3.33.jar lib/spring-tx-5.3.33.
+ jar lib/aspectjrt-1.9.19.jar lib/aspectjweaver-1.9.19.jar lib/aspectjto
+ ols-1.9.19.jar lib/slf4j-api-1.7.36.jar lib/slf4j-reload4j-1.7.36.jar l
+ ib/reload4j-1.2.19.jar lib/log4j-1.2.17.jar lib/javax.inject-1.jar lib/
+ jstl-1.2.jar lib/mysql-connector-j-8.0.33.jar lib/protobuf-java-3.21.9.
+ jar lib/mybatis-3.5.14.jar lib/mybatis-spring-2.0.7.jar lib/cglib-nodep
+ -2.2.jar lib/commons-io-2.11.0.jar lib/commons-fileupload-1.4.jar lib/c
+ ommons-beanutils-1.9.4.jar lib/commons-logging-1.2.jar lib/commons-coll
+ ections-3.2.2.jar lib/commons-dbcp2-2.9.0.jar lib/commons-pool2-2.10.0.
+ jar lib/jquery-3.6.0.jar lib/thumbnailator-0.4.14.jar lib/json-lib-2.4-
+ jdk15.jar lib/commons-lang-2.5.jar lib/ezmorph-1.0.6.jar
+Built-By: user
+Created-By: Maven
+
